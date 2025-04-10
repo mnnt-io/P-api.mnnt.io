@@ -1,6 +1,6 @@
 # Andrometa Backend
 
-![Andrometa Logo](https://placeholder-for-andrometa-logo.png)
+![Andrometa Logo](/assets/images/logo.png)
 
 Andrometa Backend is a comprehensive Node.js server that powers the Andrometa gaming platform, handling everything from user authentication to game mechanics, inventory management, and social features. The backend provides a unified API for both web and mobile clients.
 
